@@ -1,0 +1,15 @@
+{
+  "name": "node-example",
+  "version": "0.0.1",
+  "description": "Simple Online Chat",
+  "repository": "https://github.com/sorahavok/discord-chat",
+  "private": true,
+  "dependencies": {
+    "express": "4.9.x",
+    "jade": "^1.7.0"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "2.1.x"
+  }
+}
